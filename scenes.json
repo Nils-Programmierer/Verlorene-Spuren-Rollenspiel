@@ -1,0 +1,477 @@
+[
+    {
+        "scene": 1,
+        "title": "Die Rückkehr",
+        "option 1": "Gehe direkt zur Polizeiwache",
+        "option 2": "Besuche zuerst deine alte Wohnung",
+        "option 1 scene": "2",
+        "option 2 scene": "3",
+        "content": "Der Zug kommt mit einem schrillen Quietschen im Bahnhof von Dornheim zum Stehen. Du steigst aus, trittst auf den kalten Bahnsteig und sofort hüllt dich der feuchte Nebel ein, als wollte er dich willkommen heißen. Dein Mantel ist längst durchnässt, doch du bleibst einen Moment stehen, blickst dich um. Acht Jahre hast du diesen Ort gemieden. Acht Jahre voller Fragen, Schuld und Schweigen. <br>Dornheim empfängt dich wie damals: Grau, reglos, verschlossen. Die Straßen wirken leer, als hätte sich die Stadt tief in sich selbst verkrochen. Das Licht der Laternen flackert, irgendwo schlägt eine Tür zu. Nichts hat sich verändert – und doch ist alles anders. <br>Du spürst es sofort. Etwas stimmt hier nicht. Es liegt in der Luft, schwer wie der Nebel. Du hast gehofft, dass du nie zurückkehren müsstest. Aber jetzt bist du hier. Und das bedeutet, dass etwas passiert ist."
+    },
+    {
+        "scene": 2,
+        "title": "Dunkle Wahrheiten",
+        "option 1": "Die alten Fallakten durchsuchen",
+        "option 2": "Die Polizeiwache wieder verlassen",
+        "option 1 scene": "9",
+        "option 2 scene": "10",
+        "content": "Du betrittst die Polizeiwache von Dornheim. Der muffige Geruch von altem Papier und abgestandenem Kaffee liegt in der Luft. Das gedämpfte Licht der Neonröhren flackert leicht, während du dich dem Schreibtisch näherst, hinter dem Officer Neumann sitzt. Sein Blick ist ernst, die Spuren von schlaflosen Nächten zeichnen sich in seinen Zügen ab. Er seufzt tief und beginnt zu sprechen:<br>„Gut das du da bist! Dornheim steht am Abgrund. In den letzten Wochen sind drei Menschen spurlos verschwunden, ohne eine einzige Spur. Lukas Rainer, der junge Mann von der Hafenstraße, war nur der letzte. Die Polizei steht vor einem Rätsel. Die Ermittlungen stocken, und die Stadt wird immer nervöser. Das Problem ist, dass diese Fälle seltsame Parallelen zu einem alten, nie gelösten Fall haben. Einem Fall, der damals unter dem Radar lief, weil die Opfer keine wichtige Rolle spielten. Doch du weißt, wie eng du mit diesem Fall verbunden bist.<br>Deine ehemalige Partnerin, die damals plötzlich verschwand, scheint mit all dem in Verbindung zu stehen. Es gibt Hinweise, die damals übersehen wurden, Beweise, die nicht ins Bild passten. Seitdem warst du weg, hast versucht, Abstand zu gewinnen. Aber jetzt, da die Verschwinden wieder beginnen, rücken die Schatten der Vergangenheit zurück.<br>Wir können uns das nicht länger leisten. Wenn du helfen willst, musst du dich deinen Erinnerungen stellen und den Fragen, die du lange vermieden hast.“<br>Neumann legt dir eine Mappe mit alten Akten auf den Tisch. „Hier sind alle Informationen, die wir haben. Schau sie dir genau an. Und sei vorsichtig. Jemand möchte nicht, dass die Wahrheit ans Licht kommt.“"
+    },
+    {
+        "scene": 3,
+        "title": "Staub der Erinnerung",
+        "option 1": "Das alte Notizbuch durchblättern",
+        "option 2": "Den fremden Gegenstand untersuchen",
+        "option 1 scene": "4",
+        "option 2 scene": "5",
+        "content": "Du gehst die Hauptstraße entlang, vorbei an den geschlossenen Läden, deren Schaufenster mehr Staub als Ware zeigen. Der Regen ist schwächer geworden, aber der Geruch von nassem Stein und alten Fassaden hängt dir in der Nase wie ein Geist der Vergangenheit.<br>Die Tür zu deiner alten Wohnung im dritten Stock des grauen Mietshauses klemmt noch immer. Du trittst ein. Alles steht still. Der Flur riecht nach kaltem Rauch und vergilbtem Papier. Du warst jahrelang nicht hier, doch es sieht aus, als hättest du nur einen Tag gefehlt.<br>An der Wand hängt noch das alte Foto, wo du mit deiner Partnerin zusammen vor der Polizeiwache stehst. Darunter: dein früherer Schreibtisch, auf dem ein Notizbuch liegt, das du längst vergessen hattest. Und in der Ecke des Raumes liegt ein fremder Gegenstand."
+    },
+    {
+        "scene": 4,
+        "title": "Eintrag ohne Datum",
+        "option 1": "In der Polizeiwache Dornheim an",
+        "option 2": "Den fremden Gegenstand untersuchen",
+        "option 1 scene": "6",
+        "option 2 scene": "5",
+        "content": "Du setzt dich langsam an den staubigen Schreibtisch. Deine Finger streichen über das dunkelgraue Stoffcover des Notizbuchs. Es vertraut und doch fremd. Als du es aufschlägst, knirschen die Seiten leise. Es riecht nach alten Tagen, nach Kaffee, Kälte und langen Nächten voller Fragen.<br>Die ersten Seiten sind leer. Dann findest du einen Eintrag, in deiner Handschrift, aber du kannst dich nicht erinnern, ihn je geschrieben zu haben. Kein Datum, keine Überschrift, nur ein kurzer Absatz:<br>„Sie beobachteten uns schon damals. Die Lagerhalle war nicht leer. Jemand war dort, bevor wir ankamen. Vielleicht war es nie ein Unfall.“<br>Du starrst auf die Worte. Deine Kehle wird trocken. Irgendetwas stimmt hier nicht. Wer hat das geschrieben und warum kannst du dich nicht daran erinnern?"
+    },
+    {
+        "scene": 5,
+        "title": "Etwas stimmt hier nicht",
+        "option 1": "Die Polizeiwache anrufen",
+        "option 2": "Sofort zur Polizeiwache aufbrechen",
+        "option 1 scene": "6",
+        "option 2 scene": "2",
+        "content": "Du gehst langsam zur dunklen Ecke des Raumes. Der Gegenstand liegt halb unter einem umgestürzten Hocker, als hätte ihn jemand hastig dort abgelegt oder versteckt. Du kniest dich hin. Es ist ein kleines, schwarzes Diktiergerät. Es ist alt, verkratzt, aber noch funktionstüchtig.<br>Als du es einschaltest, hörst du ein kurzes Klicken, dann ein leises Rauschen. Und dann: eine Stimme. Deine Stimme.<br>„...es war kein Zufall. Wenn jemand das hier hört, dann ist es schon zu spät. Die Wahrheit liegt tiefer. Viel tiefer.“<br>Das Gerät klickt erneut, die Aufnahme endet.<br>Du starrst es an. Du hast keine Erinnerung daran, diese Nachricht aufgenommen zu haben. Und doch erkennst du deine Stimme. Sie klingt angespannter, leiser, fast… verzweifelt."
+    },
+    {
+        "scene": 6,
+        "title": "Echo aus der Leitung",
+        "option 1": "Zur Polizeiwache aufbrechen, um Neumann zu treffen",
+        "option 2": "Den Fernseher anschalten, um die Nachrichten zu sehen",
+        "option 1 scene": "2",
+        "option 2 scene": "7",
+        "content": "Du greifst zum alten Festnetztelefon auf dem Sideboard. Verstaubt, aber noch angeschlossen. Du zögerst kurz, dann tippst du die Nummer der Polizeiwache ein. Es ist dieselbe, die du früher täglich gewählt hast.<br>Es klingelt lange. Zu lange. Als du schon fast auflegen willst, meldet sich jemand.<br>„Polizeiwache Dornheim, Neumann am Apparat.“<br>Du brauchst einen Moment, bis du etwas sagen kannst. Dann nennst du deinen Namen. Es wird still in der Leitung.<br>„Voss? Ich… ich dachte, Sie sind weggezogen. Seit… na ja.“<br>Du hörst im Hintergrund das Tippen einer Tastatur, das Knarzen eines alten Stuhls. Dann:<br>„Hören Sie... der Fall Ihrer Partnerin wurde nie ganz geschlossen. Und jetzt verschwinden wieder Leute. Ich kann nicht am Telefon sprechen. Aber wenn Sie vorbeikommen… ich zeig Ihnen, was ich gefunden habe.“<br>Die Leitung bricht abrupt ab. Kein Piepen, kein Klicken – nur Stille."
+    },
+    {
+        "scene": 7,
+        "title": "Lautloser Alarm",
+        "option 1": "Zur Polizeiwache aufbrechen, um Neumann zu treffen",
+        "option 2": "Einen Moment ans Fenster treten und die Straße beobachten",
+        "option 1 scene": "2",
+        "option 2 scene": "8",
+        "content": "Du legst den Hörer langsam zurück auf die Gabel und bleibst einen Moment reglos stehen. Dann greifst du zur Fernbedienung, drückst auf den abgewetzten Einschaltknopf und wartest, bis sich der alte Röhrenfernseher knisternd zum Leben rührt.<bt>Das Bild flackert, der Ton ist verzerrt. Du schaltest auf einen lokalen Nachrichtensender. Eine ernst blickende Moderatorin sitzt vor einer digitalen Karte der Stadt. Der Text am unteren Bildschirmrand springt dir sofort ins Auge:<br>„Drittes Verschwinden innerhalb von zwei Wochen – Polizei bittet um Hinweise.“<br>Die Moderatorin spricht weiter:<br>„Wie nun bekannt wurde, verschwand am gestrigen Abend ein weiterer Einwohner Dornheims spurlos. Der 24-jährige Lukas Rainer wurde zuletzt an der alten Hafenstraße gesehen. Es ist der dritte ungeklärte Vermisstenfall innerhalb kurzer Zeit. Die Polizei gibt sich bedeckt. Inoffiziell heißt es, es gebe Parallelen zu einem alten Fall, der nie abgeschlossen wurde…“<br>Das Bild friert für einen Moment ein. Dann wird der Bildschirm schwarz."
+    },
+    {
+        "scene": 8,
+        "title": "Abschied im Dunkel",
+        "option 1": "",
+        "option 2": "",
+        "option 1 scene": "",
+        "option 2 scene": "",
+        "content": "Du trittst ans Fenster und ziehst den Vorhang ein Stück zurück. Die Straßenlaternen werfen lange Schatten auf das nasse Pflaster. Die Stadt wirkt still – zu still.<br>Plötzlich bemerkst du Bewegung auf der anderen Straßenseite. Eine dunkle Gestalt mit tiefer Kapuze bleibt stehen und sieht direkt zu deinem Fenster. Deine Haut kribbelt, ein Schauer läuft dir den Rücken hinunter.<br>Im nächsten Moment flackert das Licht in deiner Wohnung. Ein Knarren an der Tür, dann Schritte im Flur. Bevor du dich umdrehen kannst, schlägt jemand von hinten zu. Deine Sinne schwinden.<br>Du spürst, wie deine Hände gefesselt werden, kalt und rau das Seil um deine Handgelenke. Dann geht alles schnell: Ein Transportwagen, die kalte Luft der Nacht, das Geräusch von Wasser, das näher kommt.<br>Du wirst gegen deinen Willen durch die Dunkelheit geschleift, bis du mit einem kalten Ruck ins Wasser gestoßen wirst. Das letzte, was du fühlst, ist die eisige Umarmung des Flusses, der dich langsam hinabzieht."
+    },
+    {
+        "scene": 9,
+        "title": "Die alten Fallakten",
+        "option 1": "Die Polizeiwache wieder verlassen und deine eigenen Nachforschungen starten",
+        "option 2": "Die Karte mit den vermissten Personen studieren",
+        "option 1 scene": "10",
+        "option 2 scene": "11",
+        "content": "Vorsichtig öffnest du die Akten und beginnst, die Dokumente durchzusehen.<br>Alte Berichte über vermisste Personen, Fotos und handschriftliche Notizen liegen vor dir. Jeder Fall scheint mit dem nächsten verbunden zu sein, als ob sich eine dunkle Spur durch die Jahre zieht.<br>Besonders ein Fall erregt deine Aufmerksamkeit: Felix Berger, ein junger Mann, der vor über einem Jahr unter mysteriösen Umständen verschwunden ist. Die Ermittlungen damals wurden eingestellt, doch es gibt Ähnlichkeiten zu den aktuellen Vermissten.<br>Du bemerkst, dass einige Seiten fehlen oder herausgerissen wurden. Jemand scheint versucht zu haben, wichtige Informationen zu verbergen. Ein kalter Schauer läuft dir über den Rücken, als dir bewusst wird, dass du nicht der Einzige bist, der diese Spuren verfolgt."
+    },
+    {
+      "scene": 10,
+      "title": "Spuren im Nebel",
+      "option 1": "Den Spuren folgen und dadurch eine verlassene Lagerhalle betreten",
+      "option 2": "Neumann anrufen und Verstärkung anfordern",
+      "option 1 scene": "14",
+      "option 2 scene": "15",
+      "content": "Die Stadt liegt schwer und grau unter der Dunstglocke des frühen Morgens. Du fährst mit einem Streifenwagen durch die Straßen, ohne klares Ziel, getrieben von einer inneren Unruhe. Jede dunkle Gasse scheint dich zu mustern.<br>Stunden scheinen zu vergehen, bis du dich am Ufer des Flusses wiederfindest. Das Wasser fließt ruhig, fast lautlos, während der Nebel darüber kriecht. Du hältst an, steigst aus und atmest tief durch. Dann entdeckst du es.<br>Am Rand des Uferrands, zwischen Schlamm und Schilf, erkennst du Fußabdrücke. Frisch, deutlich. Sie führen weg vom Trampelpfad, hinunter ans Wasser – und dann zu einem verwachsenen Zaun, hinter dem das alte Industriegelände beginnt.<br>Neben den Spuren liegt etwas Kleines: ein zerknickter Zettel, halb durchnässt. Nur ein Wort ist noch lesbar: „Vermisst.“<br>Du spürst, dass hier etwas beginnt. Oder längst begonnen hat."
+    },
+    {
+        "scene": 11,
+        "title": "Spuren auf der Karte",
+        "option 1": "Sofort die Polizeiwache verlassen und zum Flussufer fahren",
+        "option 2": "Erstmal ein kleines Nickerchen machen",
+        "option 1 scene": "12",
+        "option 2 scene": "13",
+        "content": "Du gehst zum großen Brett an der Wand, auf dem eine ausgebreitete Stadtkarte von Dornheim hängt. Auf der Karte sind mehrere Orte mit roten Markierungen versehen – die Fundorte oder letzten bekannten Aufenthaltsorte der Vermissten.<br>Während du die Punkte genauer betrachtest, fällt dir ein Muster auf: Fast alle markieren Gebiete entlang des Flussufers und in der Nähe alter Industrieanlagen. Ein kaltes Gefühl beschleicht dich, als dir klar wird, dass die Verschwundenen möglicherweise alle mit diesem Teil der Stadt verbunden sind.<br>Plötzlich hörst du ein leises Klopfen hinter dir. Du drehst dich um. Doch der Flur ist leer. War das nur Einbildung? Oder beobachtet dich jemand?"
+    },
+    {
+        "scene": 12,
+        "title": "Fahrt ins Ungewisse",
+        "option 1": "Den Spuren folgen und die Lagerhalle betreten",
+        "option 2": "Neumann anrufen und Verstärkung anfordern",
+        "option 1 scene": "14",
+        "option 2 scene": "15",
+        "content": "Auf dem Haken neben dem Schreibtisch hängen mehrere Fahrzeugschlüssel. Du greifst dir einen davon, den mit dem kleinen, abgewetzten Schild: „Wagen 4“. Ohne ein weiteres Wort verlässt du die Wache, steigst in den alten Streifenwagen vor dem Gebäude und startest den Motor. Der Regen hat aufgehört, aber der Himmel ist noch schwer und grau.<br>Die Fahrt durch Dornheim ist ruhig, fast gespenstisch. Die Straßen sind leer, als würdest du der Stadt den Rücken kehren.<br>Am Flussufer angekommen, parkst du zwischen überwucherten Lagerhallen und rostigen Zäunen. Der Boden ist matschig, der Fluss träge und dunkel. Du steigst aus. Es riecht nach Öl, Schlamm und altem Metall. Irgendetwas hier fühlt sich… falsch an. Dann bemerkst du frische Reifenspuren im Schlamm. Und daneben: Fußabdrücke. Zu groß für eine Person. Zwei? Drei?<br>Als du dich tiefer in das Gelände vorwagst, hörst du plötzlich ein entferntes metallisches Knacken und einen Schatten, der sich hinter einem Lagercontainer bewegt."
+    },
+    {
+        "scene": 13,
+        "title": "Kurzes Nickerchen",
+        "option 1": "Die Polizeiwache wieder verlassen und durch die Stadt gehen",
+        "option 2": "Die Polizeiwache verlassen und zum Flussufer fahren",
+        "option 1 scene": "10",
+        "option 2 scene": "12",
+        "content": "Du sinkst erschöpft auf den alten Stuhl hinter dem Schreibtisch und schließt für einen Moment die Augen. Die Anspannung der letzten Stunden lastet schwer auf dir.<br>Im Halbschlaf tauchen Bilder aus der Vergangenheit auf. Du siehst deine damalige Partnerin, Anna. Nicht nur Kollegin – ihr wart mehr. Verheiratet, verbunden durch mehr als nur den Dienst. Ihr wart ein Team, privat und beruflich, doch die Schatten der Arbeit hatten eure Beziehung belastet.<br>Im Traum hört du ihre Stimme, sanft und doch voller Dringlichkeit: „Du darfst nicht aufgeben. Es liegt an dir, die Wahrheit zu finden.“<br>Ein leichter Schauer läuft dir über den Rücken, als du langsam wieder ins Hier und Jetzt zurückkehrst."
+    },
+    {
+      "scene": 14,
+      "title": "Die Lagerhalle",
+      "option 1": "Die Spuren weiter verfolgen",
+      "option 2": "Die Umgebung absichern und zurückziehen",
+      "option 1 scene": "16",
+      "option 2 scene": "17",
+      "content": "Du gehst langsam auf die große Halle zu. Die rostige Tür steht leicht offen, ein schwacher Luftzug weht dir modrigen, kalten Geruch entgegen. Innen ist es stockdunkel. Mit einer Hand ziehst du deine kleine Taschenlampe aus der Jackentasche, die andere ruht an der Waffe in deinem Holster.<br>Dein Lichtkegel tastet sich durch die Schatten. Umgekippte Regale, alte Maschinen, Staub, der in der Luft schwebt wie vergessene Zeit. Dann, ganz hinten im Raum, ein Geräusch. Dumpf, schleifend, kaum hörbar. Du hältst den Atem an.<br>Als du vorsichtig weitergehst, entdeckst du frische Spuren im Staub. Zwei verschiedene Schuhgrößen. Keine Arbeiterstiefel, eher Turnschuhe. Jemand war vor kurzem hier. Vielleicht ist er noch hier.<br>In diesem Moment flackert deine Lampe kurz. Für den Bruchteil einer Sekunde siehst du eine Gestalt zwischen den Regalen verschwinden. Schnell, aber nicht leise genug. Du bist nicht allein."
+    },
+    {
+      "scene": 15,
+      "title": "Funkstille",
+      "option 1": "Allein in die Lagerhalle eindringen",
+      "option 2": "Warten, bis Neumann eintrifft",
+      "option 1 scene": "14",
+      "option 2 scene": "17",
+      "content": "Du bleibst neben dem Wagen stehen, greifst zum Funkgerät auf dem Beifahrersitz und drehst vorsichtig den Lautstärkeregler auf. Ein leises Knacken, dann das vertraute Rauschen der Leitung. Du drückst die Sprechtaste.<br>„Neumann? Voss hier. Ich bin am Flussufer, alte Lagerhalle 3A. Ich brauche Verstärkung. Ich glaube, ich bin jemandem dicht auf den Fersen.“<br>Ein Moment vergeht. Nur Rauschen. Dann ein Knacken. Und schließlich Neumanns Stimme, verzerrt, aber erkennbar.<br>„Verdammt, Voss… Ich hab’s geahnt, dass du da landest. Bleib, wo du bist. Ich bin in zehn Minuten da. Rühr dich nicht, verstanden?“<br>Doch kaum ist die Verbindung beendet, hörst du es wieder: Metall auf Metall, irgendwo auf dem Gelände. Du bist nicht allein. Und zehn Minuten können verdammt lang sein."
+    },
+    {
+      "scene": 16,
+      "title": "Tiefe Schatten",
+      "option 1": "Die Tür zur hinteren Kammer öffnen",
+      "option 2": "Die Gestalt verfolgen",
+      "option 1 scene": "18",
+      "option 2 scene": "19",
+      "content": "Du gehst tiefer in die Halle hinein, vorsichtig, Schritt für Schritt. Die Luft ist abgestanden, voller Staub und dem beißenden Geruch von altem Öl. Dein Lichtkegel zittert leicht in deiner Hand, während du die Spuren weiterverfolgst.<br>Zwischen den Regalen findest du etwas auf dem Boden: einen halboffenen Rucksack. Darin eine Taschenlampe, eine Wasserflasche und... ein altes Polizeiabzeichen. Es ist alt und verkratzt. Aber du erkennst es sofort. Es gehörte Anna.<br>Ein Schauer durchfährt dich. Deine Finger schließen sich fester um die Lampe, dein Herz hämmert in deiner Brust. Die Gestalt, die du eben gesehen hast – war es wirklich jemand Fremdes? Oder... jemand, den du längst verloren geglaubt hast?<br>Hinter dir knarrt der Boden. Du drehst dich blitzschnell um, doch siehst niemanden. Vor dir liegt nun eine alte Eisentür, leicht angelehnt. Dahinter: völlige Dunkelheit. Rechts siehst du die letzten, frischen Fußabdrücke, die in einen schmalen Gang zwischen den Regalen führen. Ein Geräusch kommt aus dieser Richtung. Der Moment der Entscheidung ist jetzt."
+    },
+    {
+      "scene": 17,
+      "title": "Warten im Nebel",
+      "option 1": "Nachsehen, was das Geräusch war",
+      "option 2": "Beim Wagen bleiben und weiter warten",
+      "option 1 scene": "19",
+      "option 2 scene": "20",
+      "content": "Du bleibst neben dem Streifenwagen stehen. Der Motor ist aus, aber die Warnblinker ticken leise weiter – ein ständiges, rhythmisches Klicken in der Stille. Die Dunkelheit um dich herum wirkt undurchdringlich, der Nebel hat sich noch dichter über das Gelände gelegt. Die Halle liegt nur wenige Meter entfernt, offen wie ein schwarzes Maul. Du weißt nicht, was dich darin erwartet und gerade das macht es schlimmer.<br>Minuten vergehen. Immer wieder schweift dein Blick zur Straße, doch kein Scheinwerfer durchbricht den Dunst. Neumanns Stimme klingt noch in deinem Kopf, aber irgendetwas an der Stille hier draußen lässt dich zweifeln, ob er wirklich rechtzeitig kommt. Oder überhaupt.<br>Dann, plötzlich, ein Geräusch. Metall klappert, irgendwo weiter hinten auf dem Gelände. Kein Wind. Kein Tier. Es klang wie ein Schritt. Vielleicht auch zwei. Dein Herzschlag wird schneller. Du bist nicht allein, das spürst du jetzt ganz deutlich."
+    },
+    {
+      "scene": 18,
+      "title": "Gefangen im Schatten",
+      "option 1": "Auf dich aufmerksam machen",
+      "option 2": "Still bleiben und abwarten",
+      "option 1 scene": "21",
+      "option 2 scene": "22",
+      "content": "Du legst deine Hand auf die rostige Klinke der hinteren Kammertür. Sie ist kalt und rau unter deinen Fingern. Mit einem leisen Knarzen öffnet sich die Tür und gibt den Blick frei auf einen kleinen Raum, kaum größer als ein Abstellkammer. Alte Regale, leer und staubig. In der Ecke ein kaputter Stuhl, daneben ein zerbeultes Ölfass. Es riecht nach altem Metall und etwas anderem, etwas, das dich an Moder und Fäulnis erinnert.<br>Du trittst zögernd ein, leuchtest mit deinem Handy in jede Ecke. Nichts. Doch kaum hast du die Schwelle überschritten, fällt die Tür hinter dir mit einem heftigen Knall ins Schloss. Du wirbelst herum. Kein Griff von innen. Kein Lichtschimmer. Nur Dunkelheit.<br>Du drückst gegen die Tür, aber sie gibt keinen Millimeter nach. Eingesperrt. Die Wände scheinen näher zu rücken, die Luft wird stickig. Minuten vergehen. Vielleicht auch Stunden. Die Zeit verschwimmt.<br>Dann: Schritte. Erst leise. Dann näher. Schwer. Langsam. Jemand ist hier. Und jetzt stehst du vor einer Entscheidung: Rufst du nach Hilfe in der Hoffnung, dass es Neumann ist? Oder bleibst du still in Angst, dass es jemand anderes ist, der dich besser nicht entdecken sollte?"
+    },
+    {
+      "scene": 19,
+      "title": "Zwischen den Schatten",
+      "option 1": "Der Gestalt weiter folgen",
+      "option 2": "Zurück zum Eingang der Lagerhalle schleichen",
+      "option 1 scene": "23",
+      "option 2 scene": "20",
+      "content": "Du gehst langsam auf das Geräusch zu, jeder Schritt auf dem feuchten Boden klingt in deinen Ohren viel zu laut. Das Knacken war eindeutig metallisch, vielleicht eine Tür, ein Werkzeug, eine Falle? Du bleibst kurz stehen, horchst in die Dunkelheit – nichts. Doch irgendetwas sagt dir, dass du nicht allein bist.<br>Hinter dem nächsten Container bemerkst du eine Bewegung. Sie ist schemenhaft, fast zu schnell, um sicher zu sein. Eine dunkle Gestalt huscht zwischen zwei Hallenwänden hindurch, kaum mehr als ein Schatten. Kein Licht, kein Laut, aber du spürst ihre Präsenz. <br>Du duckst dich und näherst dich vorsichtig der Stelle. Am Boden: frische Fußabdrücke im nassen Schlamm, tiefer als deine. Und daneben… Reste von Stoff, an einem rostigen Haken hängen geblieben. Grau-blau, wie ein altes Arbeitshemd. <br>Ein leises Quietschen ertönt in der Ferne. Eine Tür, die langsam ins Schloss fällt. Du musst dich entscheiden: der Gestalt folgen? Oder lieber zurück zur Lagerhalle schleichen, bevor du selbst zur nächsten Vermisstenakte wirst?"
+    },
+    {
+      "scene": 20,
+      "title": "Zu spät",
+      "option 1": "Trotzdem alleine weiter die Gegend absuchen",
+      "option 2": "Zurück zur Polizeiwache fahren",
+      "option 1 scene": "24",
+      "option 2 scene": "25",
+      "content": "Du hörst das Brummen eines Motors, dann das Quietschen von Reifen auf nassem Kies. Neumanns Wagen hält direkt vor der Lagerhalle, seine Silhouette erscheint im Schein der Scheinwerfer. Du trittst ihm entgegen. Er wirkt angespannt, aber konzentriert.<br>„Alles in Ordnung?“, fragt er leise, während er die Umgebung mustert. Du deutest nur stumm in Richtung der Container, in denen du die Geräusche gehört hast. Gemeinsam beginnt ihr, das Gelände abzusuchen. Systematisch sucht ihr Raum für Raum, Container für Container ab.<br>Doch da ist nichts. Keine Gestalt, keine Spuren, kein Hinweis auf jemanden, der hier war. Selbst die Fußabdrücke, die du zuvor im Matsch gesehen hast, scheinen verwischt. Es ist, als hätte sich das Gelände selbst gesäubert.<br>„Das ergibt keinen Sinn“, murmelt Neumann, als ihr euch wieder vor der Halle trefft. „Wenn hier jemand war, dann ist er verdammt gut darin, keine Spuren zu hinterlassen.“<br>Du spürst die Frustration. Die Kälte. Den Hauch von Gefahr, der in der Luft liegt. Und vor allem diese eine, nagende Frage: Wart ihr wirklich allein hier draußen?"
+    },
+    {
+      "scene": 21,
+      "title": "Die rettende Stimme",
+      "option 1": "Mit Neumann das Gelände durchsuchen",
+      "option 2": "Zurück zur Polizeiwache fahren und berichten",
+      "option 1 scene": "26",
+      "option 2 scene": "25",
+      "content": "Du atmest flach. Jemand nähert sich. Du entscheidest dich, ein Risiko einzugehen.<br>„Hallo?! Ich bin hier drin!“, rufst du, laut genug, um durch die Metalltür zu dringen.<br>Für einen Moment passiert nichts. Dann hörst du, wie sich ein Schlüssel im Schloss dreht. Die Tür quietscht auf und da steht er. Neumann. Seine Stirn glänzt vor Schweiß, seine Hand liegt noch auf dem Pistolenholster.<br>„Verdammt… bist du okay?“, fragt er, sichtlich erleichtert. „Ich hab draußen deinen Wagen gesehen… und die Tür zur Halle stand offen. Ich hab mir schon das Schlimmste gedacht.“<br>Du bist nicht allein. Doch die Gefahr bleibt.<br>„Was zur Hölle ist hier los?“, murmelt er, während er dir aus dem Raum hilft. „Irgendetwas stimmt hier ganz und gar nicht. Komm, wir müssen rausfinden, ob hier noch jemand ist.“"
+    },
+    {
+      "scene": 22,
+      "title": "Stille Entscheidung",
+      "option 1": "",
+      "option 2": "",
+      "option 1 scene": "",
+      "option 2 scene": "",
+      "content": "Du hältst den Atem an. Die Schritte draußen kommen näher, dann entfernen sie sich wieder. Kein Licht dringt durch den Spalt der Tür. Kein Laut. Du wagst es nicht, dich zu bewegen. Vielleicht war es jemand Gefährliches. Vielleicht war es niemand.<br>Die Zeit vergeht. Minuten werden zu Stunden. Deine Kehle ist trocken, dein Kopf beginnt zu pochen. Du rufst nicht. Du hoffst. Aber niemand kommt.<br>Die Dunkelheit um dich wird schwerer, dichter. Du verlierst das Gefühl für Raum und Zeit.<br>Du bleibst allein. Gefangen zwischen rostigen Wänden und der Frage, ob du die falsche Entscheidung getroffen hast."
+    },
+    {
+      "scene": 23,
+      "title": "Verloren zwischen den Hallen",
+      "option 1": "Einfach weitergehen",
+      "option 2": "Die Stange auf den Boden aufheben und weitergehen",
+      "option 1 scene": "27",
+      "option 2 scene": "27",
+      "content": "Du schleichst tiefer zwischen den Hallen hindurch. Der Boden ist uneben, deine Schuhe saugen sich bei jedem Schritt mit Matsch voll. Du bleibst kurz stehen und lauschst. Da, wieder! Ein leises Klirren. Nicht weit entfernt. <br>Du gehst schneller. Zwischen zwei Containern erkennst du eine schmale Tür, die gerade zufällt. Ohne zu überlegen rennst du los, packst sie, bevor sie ins Schloss fällt und reißt sie auf.<br>Drinnen: flackerndes Licht, ein enger Gang, kahle Betonwände. Du trittst ein. Kaum hast du die Schwelle übertreten, knallt die Tür hinter dir zu. Dieses Mal von allein. Du reißt daran – verschlossen. Kein Griff von innen.<br>Du drehst dich langsam um. Der Gang vor dir führt in ein schummriges Nebengebäude, vermutlich ein alter Wartungstrakt. Feuchtigkeit tropft von den Rohren über dir. Kein Weg zurück – nur noch vorwärts. Die Gestalt ist nirgends mehr zu sehen. Aber du spürst, dass du näher kommst.<br>Du gehst weiter."
+    },
+    {
+      "scene": 24,
+      "title": "Die erste Spur",
+      "option 1": "Den Fund sofort Neumann zeigen",
+      "option 2": "Den Fund erst mal für dich behalten und weiter allein suchen",
+      "option 1 scene": "28",
+      "option 2 scene": "27",
+      "content": "Neumann schlägt vor, zum Wagen zurückzukehren und alles sauber zu dokumentieren. Du aber spürst, dass hier mehr verborgen liegt. Als er einwilligt, dass du noch einen letzten Blick allein wirfst, trennst du dich für eine Weile von ihm.<br>Du gehst tiefer in das Areal hinein, zwischen zwei verfallene Containerreihen. Die Stille ist bedrückend. Doch dann entdeckst du etwas – halb unter einer losen Bodenplatte versteckt liegt ein zerfledeter Rucksack. Du ziehst ihn vorsichtig hervor.<br>Innen findest du zerknitterte Kleidung, alte Kaugummiverpackungen und einen abgewetzten Schlüsselbund mit einem Anhänger. Darauf: ein verblasstes Emblem. Polizeiwappen von Dornheim. <br>Du hältst inne. Das hier war kein Zufall. Jemand wollte nicht, dass das gefunden wird. Und wenn es einem Kollegen gehört hat, dann ist das vielleicht mehr als nur ein verschwundener Rucksack.<br>Du hörst Schritte in der Ferne. Neumann? Oder jemand anderes? Jetzt musst du entscheiden, wie du mit dem Fund umgehst."
+    },
+    {
+      "scene": 25,
+      "title": "Rückzug zur Polizeiwache",
+      "option 1": "Den Fundbericht schreiben und Akten durchsuchen",
+      "option 2": "Neumanns Vorschlag folgen und mit der Chefin reden",
+      "option 1 scene": "29",
+      "option 2 scene": "30",
+      "content": "Du steigst schweigend ins Auto, während der Regen schwer auf das Dach trommelt. Die Scheinwerfer schneiden sich durch die Dunkelheit, doch dein Blick bleibt leer auf die Straße gerichtet. Die Lagerhalle liegt hinter euch – kalt, feucht, voller Fragen. Und du fragst dich, ob du zu früh abgebrochen hast.<br>Zurück auf der Wache herrscht gedämpfte Stimmung. Neumann legt die Handschuhe ab, reibt sich die Stirn. „Ich weiß, es fühlt sich falsch an, aber wir haben dort nichts mehr gefunden. Vielleicht bringt uns ein klarer Kopf weiter.“<br>Du sitzt an deinem Schreibtisch. Vor dir: der Bericht. Und die Entscheidung, wie du weiter vorgehst. Willst du dich in die Akten stürzen, nach ähnlichen Fällen suchen? Oder Neumanns Vorschlag folgen und mit der Chefin sprechen, um offiziell mehr Ressourcen zu beantragen?<br>So oder so – der Fall ist nicht vorbei. Nicht mal ansatzweise."
+    },
+    {
+      "scene": 26,
+      "title": "Der Fund",
+      "option 1": "Versuchen, die Opfer zu befragen",
+      "option 2": "Sofort Verstärkung rufen und das Gelände absichern",
+      "option 1 scene": "31",
+      "option 2 scene": "32",
+      "content": "Gemeinsam tastet ihr euch durch das heruntergekommene Lagergelände. Immer wieder tauscht ihr Blicke, kurze Zeichen – absolute Stille. Dann, ein leiser Laut. Ein Husten. Gedämpft. Menschlich.<br>Ihr folgt dem Geräusch zu einem alten, verschlossenen Technikraum. Mit vereinten Kräften brecht ihr die Tür auf. Innen: zwei Personen, zusammengekauert, gefesselt, blass, verängstigt – aber am Leben. Es sind Svenja Lenz und Timo Krause, zwei der seit Wochen vermissten Jugendlichen aus Dornheim.<br>Svenja zittert, ihre Kleidung ist zerrissen, ihre Stimme kaum mehr als ein Flüstern. Timo starrt dich nur an, seine Augen weit, leer, als hätte er längst mit allem abgeschlossen. Beide wirken erschöpft, dehydriert, unterkühlt.<br>„Wir… wir wussten nicht, ob jemand kommt…“, flüstert Svenja.<br>Neumann sieht dich an. „Wir müssen sofort handeln. Aber was zuerst?“<br>Jetzt liegt es an dir: Willst du direkt versuchen, etwas aus ihnen herauszubekommen, ehe sie medizinisch versorgt werden? Oder lieber keine Zeit verlieren und das Gelände mit Verstärkung sichern, bevor noch jemand verschwindet?"
+    },
+    {
+      "scene": 27,
+      "title": "Die stille Botschaft",
+      "option 1": "Den Tatort absichern und Verstärkung anfordern",
+      "option 2": "Fotos machen und versuchen, allein noch mehr herauszufinden",
+      "option 1 scene": "33",
+      "option 2 scene": "34",
+      "content": "Du folgst dem schmalen Gang, bis du vor einer Tür mit bröckelndem Lack und verblichenem Warnschild stehst. Sie ist nur angelehnt. Als du sie aufstößt, trifft dich der Geruch wie ein Schlag – alt, metallisch, süßlich. Blut.<br>Im Raum liegt ein Körper. Gefesselt an einem rostigen Stuhl, Kopf zur Seite geneigt. Du brauchst nur einen Moment, um zu erkennen, wer es ist: Lars Brenner, einer der drei seit Wochen vermissten Jugendlichen aus Dornheim.<br>Die Augen offen, leer. Ein sauberer Schuss mitten in die Stirn. Die Fesseln an Händen und Füßen sind professionell geknotet, der Stuhl fest im Boden verankert. Hier sollte niemand entkommen. Und niemand überleben.<br>Du trittst vorsichtig näher. Keine Anzeichen von Kampf. Keine Spuren von Eile. Der Raum wirkt fast… vorbereitet. Als hätte jemand genau geplant, dass du das hier findest.<br>Dein Puls rast. Ist der Täter noch hier? Beobachtet er dich? Du musst entscheiden, was du als Nächstes tust, aber eines ist dir jetzt klar: In Dornheim geht es längst nicht mehr nur um ein paar verschwundene Jugendliche. Das hier ist eine Botschaft."
+    },
+    {
+      "scene": 28,
+      "title": "Ein Name aus der Vergangenheit",
+      "option 1": "Neumann zur Rede stellen. Was weiß er?",
+      "option 2": "Die Marke einstecken und erst einmal schweigen",
+      "option 1 scene": "35",
+      "option 2 scene": "36",
+      "content": "Du gehst mit dem Fund zurück zu Neumann. Er steht am Wagen und notiert gerade etwas in sein kleines Buch. Als du ihm den Rucksack zeigst, nimmt er ihn dir ab und zieht die Polizeimarke hervor. Für einen Moment sagt er nichts, dann schaut er genauer hin.<br>„Warte mal“, murmelt er und dreht sie in der Hand. Auf der Rückseite erkennt man eine eingravierte Nummer. Er vergleicht sie mit einem Eintrag in seinem Notizbuch. Dann sieht er dich ernst an. „Diese Marke gehört Anna.“<br>Du spürst, wie dein Herz schneller schlägt. Anna war deine Partnerin, deine engste Vertraute. Vor über zwei Jahren verschwand sie – einfach so. Keine Nachricht, kein Abschied. Es hieß, sie hätte den Dienst quittiert, aber du hast nie daran geglaubt.<br>Neumann hält die Marke fest umklammert. „Ich dachte, sie wäre untergetaucht oder raus aus allem. Aber was macht ihre Marke hier in diesem Gelände?“<br>Du schweigst. Alles in dir schreit nach Antworten. Und gleichzeitig weißt du, dass die Wahrheit wehtun wird. Anna ist nicht einfach gegangen. Irgendjemand wollte, dass sie verschwindet. Vielleicht derselbe jemand, der auch jetzt wieder zuschlägt."
+    },
+    {
+      "scene": 29,
+      "title": "Mitten in der Nacht",
+      "option 1": "Sofort zum Tatort fahren",
+      "option 2": "Bei Neumann bleiben und hoffen, dass der Täter wiederkommt",
+      "option 1 scene": "37",
+      "option 2 scene": "38",
+      "content": "Du blätterst dich durch alte Akten. Vermisstenmeldungen, ungelöste Fälle, alles verschwimmt langsam vor deinen Augen. Die Uhr an der Wand tickt erbarmungslos, und irgendwann gibst du nach. Dein Kopf sinkt auf den Schreibtisch, du schläfst ein – erschöpft, aber innerlich unruhig.<br>Ein lauter Ruf reißt dich aus dem Schlaf. Stimmen auf dem Flur, eilige Schritte. Du springst auf. Noch benommen trittst du auf den Gang. Dort, zwei Kollegen, hektisch, mit blutverschmierten Händen.<br>„Neumann!“, ruft einer. „Er wurde angeschossen! Streifenfahrt, Industriegebiet, nahe der alten Lagerhalle!“<br>Du rennst hinterher, Herzrasen in jeder Faser. Im Sanitätsraum liegt Neumann, bleich, kaum ansprechbar. Die Sanitäter versorgen ihn. Als du ihn ansiehst, hebt er schwer den Kopf, flüstert kaum hörbar: „Ich… hatte… einen Beweis… Sie wollten nicht, dass ich ihn finde…“<br>Dann sackt er weg. Bewusstlos. Vielleicht für Stunden. Vielleicht länger. Du ballst die Hände. Jemand spielt ein gefährliches Spiel und Neumann hat gerade fast den Preis dafür bezahlt.<br>Du musst jetzt entscheiden: Sofort zum Tatort fahren oder bei Neumann bleiben und hoffen, dass der Täter seine Tat zu Ende bringen will und du ihn daran hindern kannst."
+    },
+    {
+      "scene": 30,
+      "title": "Ein unerwarteter Angriff",
+      "option 1": "Dem Schützen hinterherjagen",
+      "option 2": "Erste Hilfe bei der Chefin leisten",
+      "option 1 scene": "39",
+      "option 2 scene": "40",
+      "content": "Du sitzt im Büro der Chefin, als plötzlich ein durchdringender Knall die Stille zerreißt. Ein Schuss durchschlägt die Scheibe und trifft die Chefin. Sie sackt leblos zusammen auf den Boden. Schockiert starrst du auf die regungslose Gestalt.<br>Adrenalin schießt durch deinen Körper. Der Täter könnte noch in der Nähe sein. Du musst dich entscheiden: Jagst du dem Schützen sofort hinterher oder bleibst du bei der Chefin und versuchst erste Hilfe zu leisten?"
+    },
+    {
+      "scene": 31,
+      "title": "Stille Zeugen",
+      "option 1": "Mit der Chefin sprechen",
+      "option 2": "Ein kurzes Nickerchen machen",
+      "option 1 scene": "30",
+      "option 2 scene": "29",
+      "content": "Du versuchst die Opfer zu befragen, doch sie antworten nicht. Sie sind zu verängstigt. Ihr bringt Svenja und Timo sicher zurück aufs Revier. Sie sind still, zu verängstigt, um auch nur ein Wort zu sagen. Ihre Augen meiden deinen Blick, die Angst klebt an ihnen wie ein Schatten.<br>Im Büro sitzt du schweigend und beobachtest sie, während die Müdigkeit langsam über dich hereinbricht. Du bist erschöpft von den Ereignissen und dem Kampf, der vor euch liegt.<br>Du stehst vor der Entscheidung: Möchtest du mit der Chefin sprechen, um die nächsten Schritte zu besprechen? Oder gönnst du dir ein kurzes Nickerchen, um Kraft zu sammeln für das, was noch kommen wird?"
+    },
+    {
+      "scene": 32,
+      "title": "Der letzte Fund",
+      "option 1": "Ein kurzes Nickerchen machen",
+      "option 2": "Mit der Chefin die nächsten Schritte besprechen",
+      "option 1 scene": "29",
+      "option 2 scene": "30",
+      "content": "Bei der erneuten Durchsuchung des Geländes findet ihr die Leiche der letzten vermissten Person. Gefesselt, kalt und still – die traurige Wahrheit, die ihr nicht länger ignorieren könnt.<br>Der Rückweg zur Polizeiwache ist schweigend. Die Müdigkeit drückt schwer auf deine Augen, während der Fall dich immer tiefer zieht.<br>Zurück im Revier bist du erschöpft. Du stehst wieder vor der Wahl: Ein kurzes Nickerchen, um Kraft zu sammeln? Oder mit der Chefin sprechen, um die nächsten Schritte im Fall zu planen?"
+    },
+    {
+      "scene": 33,
+      "title": "Kein neuer Hinweis",
+      "option 1": "Mit der Chefin die nächsten Schritte besprechen",
+      "option 2": "Die Fallakten durchsuchen",
+      "option 1 scene": "30",
+      "option 2 scene": "29",
+      "content": "Du und Neumann durchsucht das Gelände noch einmal gründlich. Doch diesmal findet ihr nichts mehr. Keine neuen Spuren, keine Hinweise, die euch weiterbringen.<br>Der Rückweg zur Wache ist schweigsam und schwer. Ihr beide fragt euch, ob die restlichen Vermissten noch leben oder auch bereits tod sind. Zurück im Revier stehst du vor einer Entscheidung: Willst du mit der Chefin sprechen und die nächsten Schritte planen? Oder dich erst einmal in die Fallakten vertiefen, um vielleicht etwas übersehenes zu entdecken?"
+    },
+    {
+      "scene": 34,
+      "title": "Die unerwartete Begegnung",
+      "option 1": "",
+      "option 2": "",
+      "option 1 scene": "",
+      "option 2 scene": "",
+      "content": "Du zückst dein Handy und machst Fotos. Anschließend verlässt du den Gang wieder. Du spürst eine kalte Präsenz hinter dir. Langsam drehst du dich um. Eine Gestalt komplett in schwarz gekleidet mit einer Pistole in der Hand steht direkt vor dir.<br>In der Hand glänzt eine Pistole. Ohne zu zögern drückt die Gestalt ab. Der Lauf zielt direkt auf deinen Kopf.<br>Der Moment dehnt sich, das Ende scheint gekommen. Ein Schuss ertönt, du nimmst nichts mehr wahr und sackst tod zu Boden."
+    },
+    {
+      "scene": 35,
+      "title": "Alte Wunden",
+      "option 1": "Neumann glauben und gemeinsam weiterermitteln",
+      "option 2": "Allein weitersuchen – du traust ihm nicht mehr",
+      "option 1 scene": "41",
+      "option 2 scene": "41",
+      "content": "„Was weißt du wirklich über Anna?“, fragst du leise, während du ihm tief in die Augen siehst. Neumann schluckt. Sein Blick wandert über das Gelände, dann zurück zu dir. „Nicht viel“, sagt er schließlich. „Sie war gut. Ehrlich. Aber auch neugierig – zu neugierig. Damals hat sie etwas aufgedeckt, das sie nicht sollte. Und dann war sie weg.“<br>Du spürst, dass er etwas verschweigt. Seine Stimme zittert leicht, sein Blick weicht deinem aus. „Ich habe nie mit jemandem darüber gesprochen“, fährt er fort. „Die offizielle Version war bequem. Doch ich habe immer gedacht, es stimmt was nicht. Und jetzt das hier…“<br>Er hält die Marke hoch, als könne sie ihm Antworten geben. Doch du spürst, dass die Fragen tiefer gehen. Warum hat er nie etwas gesagt? Und warum wirkt er plötzlich so nervös?<br>Du musst entscheiden: Vertraust du ihm weiter? Oder ist es Zeit, deinen eigenen Weg zu gehen ohne Neumann?"
+    },
+    {
+      "scene": 36,
+      "title": "Rückkehr mit Fragen",
+      "option 1": "Mit der Chefin sprechen Vielleicht weiß sie mehr über Anna",
+      "option 2": "Ein kurzes Nickerchen machen",
+      "option 1 scene": "30",
+      "option 2 scene": "29",
+      "content": "Die Fahrt zurück zur Wache verläuft schweigend. Neumann starrt aus dem Fenster, seine Hände fest im Schoß verankert. Du spürst, wie die Gedanken in deinem Kopf kreisen. Die Marke, Anna und der Rucksack. Es fühlt sich an, als würde sich ein Netz um euch zusammenziehen.<br>Zurück in Dornheim empfängt euch der vertraute Geruch von Kaffee, Aktenstaub und Anspannung. Die Neonlichter flackern leicht. Du spürst, wie deine Schultern schwer werden, wie die Müdigkeit plötzlich mit aller Kraft zuschlägt.<br>Doch du weißt: Du hast jetzt die Wahl. Die Chefin ist noch in ihrem Büro, vielleicht kann sie dir endlich etwas über Annas Vergangenheit sagen. Vielleicht weiß sie mehr, als sie bisher zugegeben hat.<br>Oder du gibst dem Wunsch nach Ruhe nach, legst dich für einen Moment aufs alte Sofa im Pausenraum – nur kurz. Augen zu, kurz durchatmen… bevor es weitergeht."
+    },
+    {
+      "scene": 37,
+      "title": "Die falsche Entscheidung",
+      "option 1": "Zurück zur Wache fahren und die Angehörigen informieren",
+      "option 2": "Trotz allem weiter zum Tatort und nach Hinweisen suchen",
+      "option 1 scene": "42",
+      "option 2 scene": "43",
+      "content": "Du fährst mit quietschenden Reifen durch die Nacht, das Blaulicht spiegelt sich auf dem nassen Asphalt. Dein Puls hämmert, dein Blick ist starr auf die dunkle Straße gerichtet. Du hoffst, es noch rechtzeitig zu schaffen. Hoffst, dass Neumann durchhält. Doch dann knistert das Funkgerät.<br>„Zentrale an Streife 4-7… bestätigter Code 300. Beamter Neumann… ist tot. Wiederhole: Neumann ist tot.“<br>Stille. Alles in dir wird plötzlich schwer. Der Regen prasselt weiter auf die Windschutzscheibe, doch du nimmst ihn kaum noch wahr. Du hältst am Straßenrand, stützt die Stirn gegen das Lenkrad. Ein Kloß in deinem Hals. Das war deine Entscheidung. Du hast auf einen Fehler gehofft, auf einen zweiten Versuch. Aber es gibt kein Zurück mehr.<br>Neumann ist tot. Und du warst nicht bei ihm.<br>Jetzt musst du entscheiden, wie du weitermachst. Zurück zur Wache oder den Tatort sehen, an dem es passiert ist."
+    },
+    {
+      "scene": 38,
+      "title": "Im Schatten der Station",
+      "option 1": "Sofort den Täter verhören",
+      "option 2": "Ihn der Chefin übergeben",
+      "option 1 scene": "44",
+      "option 2 scene": "45",
+      "content": "Du bleibst im Sanitätsraum. Neumann atmet flach, ein leises Piepen begleitet jeden Herzschlag auf dem Monitor. Du sitzt im Dunkeln, die Hand an der Waffe, jede Nervenfaser gespannt. Minuten vergehen. Dann hörst du es – ein leiser Tritt, kaum wahrnehmbar. Jemand schleicht durch den Flur der fast leeren Wache.<br>Du ziehst die Pistole, gehst in Deckung. Der Türgriff bewegt sich. Langsam. Geräuschlos. Dann geht die Tür auf. Eine Gestalt tritt ein, dunkel gekleidet, Gesicht unter einer Kapuze verborgen. In der Hand befindet sich eine Waffe mit einem Schalldämpfer. Er hebt die Waffe auf Neumann.<br>„Nicht einen Schritt weiter!“, rufst du.<br>Die Gestalt zuckt zurück, aber anstatt zu fliehen, dreht sie sich blitzschnell zu dir um. Ein Schuss löst sich, kracht in den Türrahmen neben deinem Kopf. Du wirfst dich zur Seite, erwiderst das Feuer. Dann ein kurzer Kampf – hart, wild, erbarmungslos.<br>Am Ende bist du es, der die Kontrolle gewinnt. Du drückst den Täter gegen die Wand, seine Waffe rutscht über den Boden. Er keucht. Blut tropft aus seinem Mundwinkel. Er gibt auf.<br>„Wer bist du?“, fährst du ihn an. Doch er schweigt. Nur seine Augen sprechen von Hass.<br>Jetzt liegt es an dir: Verhörst du ihn direkt oder übergibst du ihn der Chefin?"
+    },
+    {
+      "scene": 39,
+      "title": "Jagd im Regen",
+      "option 1": "Den Schützen sofort verhören",
+      "option 2": "Ihn der Chefin übergeben",
+      "option 1 scene": "44",
+      "option 2 scene": "45",
+      "content": "Du stürmst aus dem Büro, direkt in die regennasse Nacht. Der Schütze rennt durch den Hinterhof der Wache, über den Zaun, hinein in die Dunkelheit. Du lässt nicht locker. Dein Atem brennt, deine Schuhe schlagen hart auf den Asphalt.<br>Nach einem wilden Sprint durch enge Gassen und über schlammige Baustellen stellst du ihn schließlich in einem leerstehenden Imbisswagen. Mit erhobener Waffe zwingst du ihn in die Knie. Er flucht, windet sich, doch du fesselst ihn. Kein Entkommen mehr.<br>Wenige Minuten später führst du ihn durch die Tür der Wache. Die Kollegen schauen auf, erleichtert und gleichzeitig fassungslos. Noch während der Täter abgeführt wird, klingelt dein Funkgerät.<br>„Hier Leitstelle. Die Chefin lebt. Kugel hat die Schulter getroffen, sie ist stabil. Auf dem Weg ins Krankenhaus.“<br>Du atmest tief durch. Sie lebt. Und du hast den Mann, der sie töten wollte. Doch die Fragen bleiben: Wer hat ihn geschickt? Und warum gerade jetzt?"
+    },
+    {
+      "scene": 40,
+      "title": "Noch ein Schuss",
+      "option 1": "",
+      "option 2": "",
+      "option 1 scene": "",
+      "option 2 scene": "",
+      "content": "Du wirfst dich zu der Chefin auf den Boden, presst deine Hände auf die blutende Wunde an ihrer Schulter. Sie stöhnt schwach, ihre Augen flackern. „Bleiben Sie bei mir!“, murmelst du, dein Puls rast. Du reißt deine Jacke auf, versuchst einen Druckverband zu improvisieren. Jeder Moment zählt.<br><br>Da – Schritte hinter dir. Schnell. Entschlossen. Du drehst dich gerade noch um, als der Lauf einer Waffe auf dich zeigt.<br><br>Es ist der Schütze. Noch immer vermummt, kalt, ohne ein Wort. Du schaffst es nicht mehr, dich zu wehren. Ein einzelner Schuss hallt durch das Büro.<br><br>Schwarz. Stille."
+    },
+    {
+      "scene": 41,
+      "title": "Letztes Zeichen",
+      "option 1": "",
+      "option 2": "",
+      "option 1 scene": "",
+      "option 2 scene": "",
+      "content": "Gerade als ihr euch sortieren wollt, knistert das Funkgerät auf dem Beifahrersitz. Die Stimme eines Kollegen dringt durch – gepresst, fast panisch: „Zentrale an alle Einheiten… Es gibt einen neuen Vermisstenfall. Diesmal… ist es unsere Chefin. Sie ist heute Morgen nicht zur Dienstbesprechung erschienen. Vor dem Revier wurde ein Umschlag gefunden. Kein Absender, kein Fingerabdruck – nur eine Notiz.“<br>Du reißt das Funkgerät an dich. „Was steht drin?“<br>Ein Moment Stille. Dann: „‚Dies ist das letzte Mal. Danach ist es vorbei.‘“<br>Dein Magen zieht sich zusammen. Alles fühlt sich falsch an. Ihr startet sofort die Suche und durchkämmt das Viertel, prüft Kameraaufnahmen, befragt alle, die ihr kennt. Doch jede Spur endet ins Leere. Keine Hinweise. Kein Motiv. Kein Täter.<br><br>Die Wochen vergehen. Die Fallmappe der Verschwundenen wächst, wird dicker und schwerer, doch ohne neue Erkenntnisse. Irgendwann wird sie zu den ungelösten Fällen gelegt.<br>Die Stille in der Wache bleibt. Und mit ihr der Gedanke: Vielleicht war das wirklich das Ende. Und niemand wird je erfahren, warum es begann. Ihr habt die Vermisstenfälle gestoppt, aber die Täter leider nicht gefunden."
+    },
+    {
+      "scene": 42,
+      "title": "Das Ende deiner Spur",
+      "option1": "",
+      "option2": "",
+      "option 1 scene": "",
+      "option 2 scene": "",
+      "content": "Die Wache wirkt wie ein dunkler, lebloser Schatten ihrer selbst, als du zurückkehrst. Keine Gespräche, keine Begrüßung, nur Blicke. Du spürst sie auf dir lasten: fragend, anklagend, enttäuscht.<br>In einem der Büros sitzen Neumanns Angehörige. Seine Frau, den Blick starr auf einen Punkt in der Luft gerichtet. Sein Vater, die Hände zu Fäusten geballt. Als du den Raum betrittst, sagen sie kein Wort. Du willst etwas erklären, etwas sagen, aber es kommt nichts. Nur ihr Blick trifft dich und er trifft tief.<br>„Du hättest da sein sollen“, sagt schließlich jemand leise. Kein Vorwurf. Nur eine Tatsache. Und sie zerreißt dich.<br>In den folgenden Stunden versinkst du in Berichten, Formalitäten, Schweigen. Niemand fragt dich nach deiner Sicht. Niemand tröstet dich. Und du weißt: Du willst das hier nicht mehr. Nicht diesen Ort. Nicht diese Schatten.<br>Am nächsten Morgen packst du deine Sachen. Kein offizieller Abschied, kein Wort an Neumanns Familie. Nur dein Blick, der sich ein letztes Mal über die Stadt legt, bevor du gehst. Dornheim hat dich verändert. Aber du konntest nichts ändern.<br>Du verlässt die Stadt so, wie du gekommen bist – allein. Und diesmal wirst du wirklich nicht zurückkehren. Der Fall wird für immer ungelöst bleiben."
+    },
+    {
+      "scene": 43,
+      "title": "Nur noch Schatten",
+      "option1": "",
+      "option2": "",
+      "option 1 scene": "",
+      "option 2 scene": "",
+      "content": "Du steigst aus dem Wagen. Der Tatort liegt verlassen da, still und nass vom Regen. Blaulicht flackert über Beton und rostige Zäune, aber die Spuren sind spärlich. Blut auf dem Boden. Ein einzelner Handschuh. Sonst nichts.<br>Du gehst den Bereich ab, suchst, dokumentierst, aber je länger du dich umsiehst, desto klarer wird dir: Der Täter war vorbereitet. Er hat keine Fehler gemacht. Keine DNA, keine Kameras, kein Zeuge. Neumanns Mörder wollte, dass es so endet.<br>Stunden vergehen. Der Regen hört nicht auf. Du starrst auf deine Notizen, auf deine Gedanken, aber sie bringen dir keine Antworten. Nur mehr Fragen. Und Schweigen.<br>Als du in der Morgendämmerung zurück zum Auto gehst, bleibt nur das Gefühl, versagt zu haben. Nicht nur für Neumann. Für alle.<br>Der Fall bleibt ungelöst. Die Täter verschwinden in der Dunkelheit. Und du? Du bleibst allein zurück, mit nichts als der kalten Erkenntnis: Manche Dinge wirst du nie aufklären können.<br>Du blickst ein letztes Mal auf den Tatort. Dann steigst du ein. Und fährst davon."
+    },
+    {
+      "scene": 44,
+      "title": "Die Wahrheit kommt ans Licht",
+      "option 1": "Nach Annas Aufenthaltsort fragen",
+      "option 2": "Mehr über seine Auftraggeber wissen wollen",
+      "option 1 scene": "46",
+      "option 2 scene": "47",
+      "content": "Der Verhörraum liegt im Halbdunkel, nur eine einzelne Lampe taucht das Gesicht des gefesselten Täters in flackerndes Licht. Du verschwendest keine Zeit.<br>„Wo sind die vermissten Personen?“ Er lacht trocken. „Eine ist tot. In der alten Lagerhalle am Industriegelände. Die anderen zwei… noch nicht. Aber sie sind dort. Eingesperrt. Und wenn ihr euch nicht beeilt, sterben sie wie die anderen.“Dein Herz rast. Du ballst die Fäuste. Doch du brauchst mehr. „Warum? Warum diese Menschen?“Sein Blick wird kalt. „Sie wurden auserwählt. Es ging nie um sie. Es ging darum, Druck zu machen. Und um Anna.“<br>Du frierst. „Was hat Anna damit zu tun?“ Er schnaubt. „Du glaubst wirklich, sie war das Opfer? Sie war Teil davon. Früher. Vor Jahren. Sie war Ermittlerin, hat in den Schatten der Behörde gewühlt. Und dann hat sie sich auf die falschen Leute eingelassen. Vielleicht aus Neugier, vielleicht für Antworten. Aber sie wusste zu viel und hat es trotzdem weitergegeben.“<br>„Dann ist sie… Teil des Netzwerks?“<br>„Nicht mehr. Sie wollte aussteigen. Hat Beweise gesammelt. Und dann verschwand sie. Manche sagen, sie wurde verraten. Andere… dass sie heute noch weitermacht. Im Untergrund. Sie wusste, dass ihr keiner glauben würde. Auch dir nicht.“Du lehnst dich zurück. Deine Gedanken überschlagen sich. Alles hängt an dieser Frau, die du einst kanntest. Anna war der Anfang. Und vielleicht ist sie auch der Schlüssel zum Ende.<br>Du musst dich entscheiden: Den Auftraggeber erfragen und das Motiv herausfinden oder gräbst du tiefer in Annas Vergangenheit?"
+    },
+    {
+      "scene": 45,
+      "title": "Offenbarungen der Chefin",
+      "option 1": "Sofort zur Hütte aufbrechen und Anna befreien",
+      "option 2": "Auf das Einsatzteam warten und koordiniert vorgehen",
+      "option 1 scene": "49",
+      "option 2 scene": "48",
+      "content": "Die Chefin sitzt blass, aber aufrecht in ihren Schreibtischstuhl. Neben ihr ein Ordner, voll mit Berichten, Notizen, Aussagen. Ihr Blick ist ernst, aber klar. „Er hat geredet“, sagt sie ruhig.<br>Du setzt dich. Und dann beginnt sie, dir alles zu erzählen.<br>„Anna ist nicht tot“, beginnt sie. „Sie wurde damals nicht getötet, sondern nur zum Schweigen gebracht. Sie hat weiter ermittelt, auf eigene Faust, und ist dabei auf ein Netzwerk gestoßen. Ein Ring aus ehemaligen Beamten, Polizisten, Geschäftsleuten und Politikern. Sie verschieben Waffen, Daten, Menschen. Alles, was Geld bringt. Und Anna… war ihnen gefährlich.“<br>Du schluckst. Das Netz ist größer als gedacht.<br>„Sie haben sie gefunden. Wieder. Und diesmal festgesetzt in einer Hütte im Wald, gut bewacht. Tief draußen, wo kein Funk durchkommt. Zwei Männer sind bei ihr. Noch lebt sie… aber wie lange?“<br>„Und die Vermissten?“, fragst du.<br>„Eine Person ist tot in der alten Lagerhalle im Industriegebiet. Die anderen beiden… sie sind ebenfalls in der Lagerhalle, aber eingesperrt. Es läuft ihnen die Zeit davon.“<br>Du stehst auf. Alles in dir schreit danach, jetzt loszufahren. Doch die Chefin hebt mahnend die Hand.<br>„Du gehst da nicht allein rein. Ich informiere gerade das SEK. Sie bereiten den Zugriff vor. Gib mir zehn Minuten.“<br>Doch du zögerst. Zehn Minuten können alles bedeuten. Vielleicht zu viel."
+    },
+    {
+      "scene": 46,
+      "title": "Annas Spur",
+      "option 1": "Sofort zur Hütte aufbrechen und Anna befreien",
+      "option 2": "Verstärkung anfordern und koordiniert vorgehen",
+      "option 1 scene": "49",
+      "option 2 scene": "48",
+      "content": "Du fixierst den Täter, dein Blick ist eiskalt. „Und Anna? Wo ist sie?“<br>Er zögert. Doch du trittst näher, packst ihn am Kragen. „Sag es!“<br>Sein Blick wird leer. Dann gibt er nach. „Sie… sie lebt noch. Aber sie ist nicht frei.“<br>Dein Herz setzt kurz aus. „Sie haben sie“, fährt er fort. „Seit Wochen. Vielleicht Monate. Sie hat zu viel gewusst, zu viel recherchiert. Hat sich eingemischt. Wir dachten, wir hätten sie längst erledigt, aber sie hat überlebt. Versteckt. Dann haben wir sie wiedergefunden.“<br>„Wo ist sie jetzt?“<br>„Eine Hütte. Tief im Wald, außerhalb von Dornheim. Kein Empfang. Kein Strom. Zwei Männer bewachen sie rund um die Uhr. Sie wird nicht lange durchhalten. Sie soll noch heute umgebracht werden.“<br>Du brauchst einen Moment, um dich zu fangen. Anna… lebt. Aber nicht mehr lange, wenn du nicht schnell handelst.<br>Eine Entscheidung ist gefordert: Brichst du sofort zur Hütte auf und riskierst alles, um sie so schnell wie möglich allein zu befreien? Oder wartest du und koordinierst einen Zugriff mit Verstärkung auch wenn das Zeit kostet?"
+    },
+    {
+      "scene": 47,
+      "title": "Im Netz der Schatten",
+      "option 1": "Nach Annas Aufenthaltsort fragen",
+      "option 1 scene": "46",
+      "content": "Du beugst dich näher zu ihm. Deine Stimme ist leise, aber messerscharf: „Wer hat dich geschickt?“ Der Täter lacht, aber ohne Freude. Blut klebt an seinen Lippen. „Du stellst die falsche Frage. Es gibt keinen ‚einen‘ Auftraggeber. Es ist ein Netzwerk. Verwurzelt in dieser Stadt. In der Behörde. In der Wirtschaft. Und ja… auch in der Polizei.“<br>Du schluckst. „Was genau machen sie?“<br>Er hebt langsam den Blick. Die Augen glitzern vor Kälte. „Menschenhandel. Informationsverkauf. Leichen, die nie auftauchen. Leute, die zu viel wissen, verschwinden. Du glaubst, das hier war Zufall? Die Vermissten waren nur Nachrichten. Warnungen. Und Anna… war der Auslöser.“<br>„Wie meinst du das?“<br>„Sie hat Beweise gesammelt. Hat ein paar Namen öffentlich gemacht. Dachte, sie könnte mit der Wahrheit etwas ändern. Aber sie hat nur ein System provoziert, das seit Jahren im Verborgenen funktioniert. Jeder Schritt von ihr hat andere Menschen das Leben gekostet.“<br>Du atmest schwer. Die Teile passen. Vieles, was du geahnt, aber nie ausgesprochen hast, bekommt jetzt ein Gesicht.<br>„Und jetzt?“, fragst du leise.<br>Er sieht dich an, müde. Das Netzwerk weiß, dass du zu nah dran bist. Du hast nicht viel Zeit.“"
+    },
+    {
+      "scene": 48,
+      "title": "Einsatz im Morgengrauen",
+      "option 1": "END",
+      "option 2": "",
+      "option 1 scene": "",
+      "option 2 scene": "",
+      "content": "Du wartest im Revier und hoffst, das die Spezialeinheit rechtzeitig ankommt. Nach 15 Minuten fährst du schon mal zum Wald. Die Einheit folgt dir.<br>Kurze Zeit später trifft die Spezialeinheit ein. Dunkle Kampfmontur, Nachtsichtgeräte, kurze Kommandos. Du führst sie durch den Wald, jeder Schritt begleitet von dem Knistern des Funkgeräts und dem gedämpften Atem der Männer.<br>Die Hütte liegt still da, im ersten blassen Licht des Morgens. Einer der Beamten hebt die Hand. Ein kurzes Nicken, dann bricht die Hölle los.<br>Schreie. Schüsse. Splitterndes Holz. Du gehst in Deckung, während das Einsatzteam die Tür sprengt und sich ins Innere stürzt. Sekunden ziehen sich wie Minuten.<br>Dann – Bewegung. Zwei Beamte treten aus der Hütte, zwischen ihnen eine Frau: Anna.<br>Sie wankt, ihr Gesicht ist schmutzig, das Haar zerzaust. Ein Streifschuss an der Schulter hat ihr Blut durch das Hemd getränkt. Doch sie lebt.<br>Als ihr Blick dich trifft, bleibt sie stehen. Ihre Lippen bewegen sich lautlos, ein Hauch von Erleichterung in ihrem Blick. Ein Lächeln, kaum sichtbar.<br>Du gehst ihr entgegen. „Willkommen zurück“, flüsterst du. Und in dem Moment weißt du, dass sich das Warten gelohnt hat.<br><br>Du hast Anna gerettet. Und dich. Die Täter sind tot. Aber die Fragen bleiben. Was war das für ein Netzwerk? Wer hat es geleitet? Und warum?<br>Doch das ist eine andere Geschichte, für einen anderen Tag. Jetzt zählt nur, dass ihr beide am Leben seid. Und dass die Nacht endlich endet."
+    },
+    {
+      "scene": 49,
+      "title": "Allein in den Wald",
+      "option 1": "Zur Hütte schleichen und versuchen, Anna unbemerkt zu befreien",
+      "option 2": "Mit gezogener Waffe eindringen und die Täter überraschen",
+      "option 1 scene": "50",
+      "option 2 scene": "51",
+      "content": "Du verlässt das Gebäude ohne ein weiteres Wort, weil du nicht länger warten kannst. Der Gedanke, dass Anna dort draußen eingesperrt ist, vielleicht gerade jetzt leidet oder sogar stirbt, treibt dich an.<br>Der Weg zur Hütte führt durch enge Waldwege, vorbei an verfallenen Zäunen und ausgebrannten Laternen. Du folgst der groben Beschreibung aus dem Bericht. Die Nacht ist kalt und still. Nur das Geräusch deiner Schritte auf dem feuchten Waldboden begleitet dich.<br>Dann siehst du sie. Eine schiefe Holzhütte, eingezäunt mit rostigem Draht, ein einzelner Scheinwerfer leuchtet trübe über den Eingang. Zwei Männer patrouillieren davor. Du bleibst im Schatten stehen, dein Puls hämmert. Du weißt, dass sich im Inneren Antworten verbergen und Leben, die von deinem nächsten Schritt abhängen.<br>Willst du unbemerkt hinein und versuchen, Anna zu befreien? Oder riskierst du alles und gehst frontal rein – in der Hoffnung, die Täter zu überrumpeln?"
+    },
+    {
+      "scene": 50,
+      "title": "Befreiung im Schatten",
+      "option 1": "Mit Anna zusammen weiter rennen",
+      "option 2": "Sich trennen und dadurch die Verfolger abschütteln",
+      "option 1 scene": "52",
+      "option 2 scene": "53",
+      "content": "Du schleichst dich durch das Unterholz, jeder Schritt bedacht. Kein Laut darf dich verraten. Die Hütte liegt still zwischen den Bäumen, nur das gelegentliche Knacken des Holzes im Wind ist zu hören. Leise öffnest du ein Fenster bei der Hütte und kletterst rein.<br>Im Inneren findest du Anna. Gefesselt an einen Stuhl, verdreckt, das Gesicht gezeichnet von Erschöpfung und Angst. Ihre Augen weiten sich, als sie dich sieht – erst Unglaube, dann Hoffnung. Sie hat sich über die Jahre verändert, doch sie ist es.<br>„Du… bist es wirklich…“<br>Du durchtrennst die Seile. Ihre Beine wanken, du stützt sie. Gemeinsam schleicht ihr zur Tür zurück. Doch dann, ein Ruf, hektische Schritte. Einer der Männer hat euch entdeckt!<br>Ohne zu zögern ziehst du deine Waffe und feuerst. Der Angreifer sackt zusammen. Kein Schuss zurück, nur ein dumpfes Stöhnen. Keine Zeit für Reue. Du greifst nach Annas Hand. „Lauf!“<br>Ihr rennt durch den dunklen Wald. Äste peitschen ins Gesicht, der Atem brennt. Hinter euch knacken Zweige Der zweite Mann hat euch gesehen. Er folgt euch. Hartnäckig. Gefährlich.<br>Doch Anna ist frei. Jetzt zählt jede Sekunde."
+    }, 
+    {
+      "scene": 51,
+      "title": "Sturm auf die Hütte",
+      "option 1": "",
+      "option 2": "",
+      "option 1 scene": "",
+      "option 2 scene": "",
+      "content": "Du schnappst dir die Waffe, atmest tief durch und stürmst aus dem Unterholz. Keine Tarnung mehr, keine Zweifel. Die zwei Männer reißen die Köpfe hoch, beide greifen instinktiv zu ihren Waffen.<br>Du bist schneller. Der erste geht zu Boden, getroffen in der Brust. Doch der zweite zögert keine Sekunde. Du spürst den Einschlag noch bevor du das Mündungsfeuer siehst. Ein harter Schlag in den Bauch, als hätte dich ein Presslufthammer erwischt. Deine Beine geben nach.<br>Du fällst auf die Knie. Der Raum verschwimmt vor deinen Augen. Stimmen schreien. Vielleicht Annas. Vielleicht auch nur das Echo in deinem Kopf. Der Schmerz brennt wie Feuer, aber du spürst auch, wie er langsam nachlässt. Deine Finger lösen sich von der Waffe.<br>Du hast einen getroffen. Aber du wirst nicht sehen, wie es endet. Der Boden unter dir wird kalt. Die Dunkelheit kommt schnell."
+    },
+    {
+      "scene": 52,
+      "title": "Kein Entkommen",
+      "option 1": "",
+      "option 2": "",
+      "option 1 scene": "",
+      "option 2 scene": "",
+      "content": "Der Wald scheint kein Ende zu nehmen. Jeder Atemzug fällt schwerer, die Dunkelheit drückt sich wie ein Gewicht auf deine Schultern. Anna klammert sich an deine Seite, ihre Schritte werden langsamer.<br>Dann passiert es – ein Ast, übersehen im Eifer der Flucht. Anna stolpert, stürzt zu Boden. Du wirfst dich sofort neben sie, versuchst sie hochzuziehen, doch sie keucht nur: „Ich kann nicht mehr…“<br>Ein Knacken. Ein Schatten. Zu spät. Der Verfolger tritt aus dem Dunkel, die Waffe im Anschlag. Sein Gesicht bleibt regungslos. Kein Wort. Kein Zögern.<br>Ein Schuss. Anna zuckt, sackt zusammen. Dein Schrei erstickt in der Stille.<br>Der zweite Schuss trifft dich mitten in der Bewegung. Ein brennender Schmerz zerreißt deine Brust, dein Blick verschwimmt. Der Wald beginnt sich zu drehen, Stimmen verblassen. Du greifst nach Annas Hand. Ein letzter Reflex, bevor alles schwarz wird."
+    },
+    {
+      "scene": 53,
+      "title": "Letzter Schuss, letzte Hoffnung",
+      "option 1": "END",
+      "option 2": "",
+      "option 1 scene": "",
+      "option 2 scene": "",
+      "content": "„Trenn dich von mir. Ich locke ihn weg!“, keuchst du und bleibst stehen. Anna will protestieren, doch dein Blick ist entschlossen. Sie nickt zögernd und rennt in eine andere Richtung. Sekunden später folgt der Verfolger ihr, Genau wie du es gehofft hast.<br>Du gehst tief in Deckung, nutzt das Rascheln der Blätter als Tarnung. Deine Schritte sind leise, dein Herz hämmert. Du näherst dich ihm von hinten, langsam, konzentriert. Er hebt gerade die Waffe, zielt auf Anna…<br>Ein einzelner Schuss zerreißt die Nacht. Er dreht sich noch einmal ruckartig um und dann fällt er. Du atmest zitternd aus.<br>Anna ist stehen geblieben, ihre Augen suchen dich im Halbdunkel. Du trittst aus dem Schatten, die Waffe noch in der Hand. „Alles gut… es ist vorbei.“<br>Gemeinsam geht ihr durch das Dickicht. Der Wald lichtet sich, erste Blaulichter durchbrechen die Dunkelheit. Die Spezialeinheit rückt gerade an. Sie ist schwer bewaffnet, entschlossen, aber ihr seid ihnen zuvor gekommen.<br>Ein Beamter stürzt zu euch. „Ihr lebt… verdammt, ihr lebt!“ Für einen Moment fühlt sich alles leichter an. Nicht gut, nicht heil – aber leichter.<br><br>Du hast Anna gerettet. Und dich. Die Täter sind tot. Aber die Fragen bleiben. Was war das für ein Netzwerk? Wer hat es geleitet? Und warum?<br>Doch das ist eine andere Geschichte, für einen anderen Tag. Jetzt zählt nur, dass ihr beide am Leben seid. Und dass die Nacht endlich endet."
+    }
+]
